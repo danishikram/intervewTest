@@ -11,7 +11,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "mysql2": "^2.0.2",
-    "sequelize": "^5.21.3",
+    "sequelize": "^6.29.0",
     "sequelize-transactions": "^1.0.1"
   }
 }
